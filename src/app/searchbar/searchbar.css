@@ -1,0 +1,12 @@
+.search-bar-wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#search-input {
+  display: block;
+  width: 70%;
+  height: 50px;
+}
